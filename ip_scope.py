@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # Get IPv4/6 geolocation and ownership data using ipgeolocation.io
 # Requires ipgeolocation API key. Get yours at https://ipgeolocation.io/
 # Usage: ./ip_scope.py <ipv4/6 address>
